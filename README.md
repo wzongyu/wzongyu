@@ -6,5 +6,4 @@
 - 📫 How to reach me: wuzy.gm@gmail.com
 - ⚡ My website: https://wzongyu.github.io/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzongyu)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzongyu&show_icons=true&theme=dark)
