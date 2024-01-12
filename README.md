@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Zongyu Wu, a first-year Ph.D. student at Penn State University
-- 🏚️ Find me more at my [hompage](https://wzongyu.github.io)
+<h1 align="center">Hi 👋, I'm Zongyu Wu</h1>
 
-<!---
-wzongyu/wzongyu is a  special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently a first-year Ph.D. student at Penn State University.
+
+- 📄 Know about me from my [homepage](https://wzongyu.github.io).
+
+![info](https://github-readme-stats.vercel.app/api?username=wzongyu&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
